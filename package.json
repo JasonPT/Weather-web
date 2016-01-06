@@ -11,6 +11,9 @@
     "weather",
     "forecast"
   ],
-  "author": "Yi Liu",
-  "license": "ISC"
+  "author": "JasonPT",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.4.15"
+  }
 }

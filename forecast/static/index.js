@@ -1,5 +1,5 @@
 /**
- * Created by YiLIU on 10/28/15.
+ * Created by JasonPT on 10/28/15.
  */
 
 var getIcon = function (icon) {
