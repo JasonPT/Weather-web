@@ -47,6 +47,6 @@ var server = http.createServer(function (request, response) {
 });
 
 server.listen(PORT);
-console.log("Server runing at port: " + PORT + ".");
+console.log("Server running at port: " + PORT + ".");
 
 

@@ -1,19 +1,19 @@
 {
-  "name": "forecast",
+  "name": "JasonPT",
   "version": "1.0.0",
-  "description": "weather forecast severice",
+  "description": "Weather Forecast Search Website",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "xml2js": "^0.4.15"
   },
   "keywords": [
-    "node.js",
     "weather",
     "forecast"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JasonPT/forecast"
+  },
   "author": "JasonPT",
-  "license": "ISC",
-  "dependencies": {
-    "xml2js": "^0.4.15"
-  }
+  "license": "ISC"
 }
