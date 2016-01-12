@@ -78,9 +78,6 @@ To the left, the current weather data is displayed. The top part consists for tw
 #####Cloud Map
 To the right, the cloud map is displayed.
 
-###Facebook post
-![](https://googledrive.com/host/0B6oQwX6qlmnZa3hBU2V5UW81cDA/)
-
 On click of the Facebook post button, there will be a popup to authorize the user to Facebook if the user is not already logged in to Facebook. And then a feed can be posted.
 
 ###Next 24 Hours Tab
